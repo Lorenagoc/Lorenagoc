@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenagoc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lorenagoc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" width="83%"/></p>
