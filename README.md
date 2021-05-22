@@ -15,8 +15,7 @@
 
 <div style="display:flex; flex-direction:column; justify-content:center; align-items:flex-start;">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenagoc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lorenagoc" /></p>
-</div>
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:flex-start;">
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" /></p>
 </div>
 
