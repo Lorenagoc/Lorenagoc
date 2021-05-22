@@ -15,5 +15,5 @@
 
 <div style="text-align:center;display:flex;">
     <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenagoc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lorenagoc" />
-    <img width="430" src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" />
 </div>
