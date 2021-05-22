@@ -18,6 +18,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenagoc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lorenagoc" /></p>
 </div>
 <div style="display:inline-block;">
-<p><img width="73%" src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=lorenagoc&show_icons=true&theme=dracula&locale=en" alt="lorenagoc" /></p>
 </div>
 </div>
