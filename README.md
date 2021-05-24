@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET, C# and Front-end tools.**
 
-- 📫 You can reach me sending me an email **lorenagoc99@gmail.com or lorenacabral@cefetmg.br**
+- 📫 You can reach me sending me an email to **lorenagoc99@gmail.com or lorenacabral@cefetmg.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
