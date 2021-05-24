@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lorena-gomes-51ba74159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="https://www.linkedin.com/in/lorena-gomes-51ba74159/"width="20%" /></a>
+<a href="https://www.linkedin.com/in/lorena-gomes-51ba74159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="https://www.linkedin.com/in/lorena-gomes-51ba74159/"width="10%" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
