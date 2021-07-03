@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorena</h1>
 <h3 align="center">A computer student and technology enthusiast.</h3>
 
-- 🌱 I’m currently learning **.NET** and **C#**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 You can reach me sending me an email to **lorenagoc99@gmail.com** or **lorenacabral@cefetmg.br**
 
